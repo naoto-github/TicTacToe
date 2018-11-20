@@ -1,0 +1,49 @@
+/* This is a CSS file */
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	border: 1px solid black;
+	width: 800px;
+}
+
+header{
+	text-align: center;
+	background-color: green;
+	height: 60px;
+	line-height: 60px;
+}
+
+footer{
+	display: block;
+	text-align: center;
+	background-color: lightgreen;
+	height: 40px;
+	line-height: 40px;
+}
+
+#main{
+	display: block;
+	text-align: center;
+	height: 500px;
+	padding: 30px;
+}
+
+#panel{
+	text-align: center;
+	padding: 10px;
+}
+
+#info{
+	text-align: center;
+}
+
+.block{
+	display: inline-block;
+	width: 160px;
+	height: 160px;
+	border: 1px solid black;
+}
